@@ -22,7 +22,9 @@ const Home = () => {
         "nuts",
         "Paneer",
         "Oil",
-        "Almond"
+        "Almond",
+        "Noddles",
+        "Soya Chunks"
     ]
 
 
